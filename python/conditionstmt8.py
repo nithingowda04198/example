@@ -1,5 +1,7 @@
 #Conditional Statements in Python: if, elif, and else
 
+print("added new line")
+
 #if
 time = 20  # 20 represents 8 PM in 24-hour format
 if time == 20:
