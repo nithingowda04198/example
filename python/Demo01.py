@@ -1,5 +1,5 @@
-a = 1 
-b = 2
+a = 4 
+b = 3
 int = 4
 str1 = "Nithin"
 str2 = "Gowda"
