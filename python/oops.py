@@ -14,7 +14,7 @@ class car:
         print(f"The car brand is -{self.brand} model is{self.model}")
 
 #create object
-car1 = car("maruthi", "swift")
+car1 = car("mahindra", "suv500")
 car1.car_details()
 
 
